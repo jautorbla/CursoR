@@ -9,7 +9,7 @@ output:
   
 ---
 
-Prueba para subir a GitHub
+**Prueba para subir a GitHub**
 
 
 ```{r setup, include=FALSE}
