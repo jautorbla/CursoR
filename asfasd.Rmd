@@ -12,6 +12,13 @@ output:
 **Prueba para subir a GitHub**
 
 
+# Sección
+## Sub-sección
+### etc
+#### etc
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -36,8 +43,8 @@ texto^[nota al pie]
 You can also embed plots, for example:
 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r pressure, echo=T}
+plot(pressure, col = "green", pch = 3)
 summary(pressure)
 ```
 
